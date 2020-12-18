@@ -115,3 +115,22 @@ h2 {
 #name {
     font-family: 'Kaushan Script', cursive;
 }
+.ins{
+    display:inline;
+}
+#pic{
+    border:5px solid #757373;
+    width:200px;
+    padding:5px;
+}
+#pic1{
+ border:5px solid #757373;
+    width:200px;
+    padding:5px;
+}
+.bill {
+   transform: transform .2s;
+}
+.bill:hover{
+transform:scale(0.9);
+}
