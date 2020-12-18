@@ -134,3 +134,6 @@ h2 {
 .bill:hover{
 transform:scale(0.9);
 }
+#txt{
+  font-family:  'Dancing Script', cursive;
+}
